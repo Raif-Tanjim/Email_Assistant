@@ -1,0 +1,4 @@
+strategy,IFS,PCE,PPS
+baseline,0.983,0.96,0.42
+few_shot,0.95,0.92,0.62
+role,0.95,0.98,0.44

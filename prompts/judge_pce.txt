@@ -1,0 +1,24 @@
+You are an impartial evaluator.
+
+Generated Email:
+{email}
+
+Task:
+Evaluate the professionalism of the email.
+
+Consider:
+- Structure
+- Clarity
+- Grammar
+- Readability
+- Business appropriateness
+
+Scoring Rubric:
+
+5 = Excellent
+4 = Good
+3 = Adequate
+2 = Weak
+1 = Poor
+
+Return ONLY a single integer from 1 to 5.

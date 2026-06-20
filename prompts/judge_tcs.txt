@@ -1,0 +1,20 @@
+You are an impartial evaluator.
+
+Required Tone:
+{tone}
+
+Generated Email:
+{email}
+
+Task:
+Evaluate how well the email matches the required tone.
+
+Scoring Rubric:
+
+5 = Perfect tone match
+4 = Strong match
+3 = Acceptable
+2 = Weak match
+1 = Incorrect tone
+
+Return ONLY a single integer from 1 to 5.

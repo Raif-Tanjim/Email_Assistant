@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "intent": "Follow up after a project planning meeting",
+    "tone": "Formal",
+    "facts": [
+      "Meeting held on June 10",
+      "Project launch scheduled for July 15",
+      "Marketing team will provide campaign assets by June 25",
+      "Next review meeting planned for June 30"
+    ],
+    "reference_subject": "Follow-Up on Project Planning Meeting",
+    "reference_email": "Dear Team,\n\nI hope you are doing well.\n\nI would like to follow up on our project planning meeting held on June 10 and summarize the key decisions discussed.\n\nAs agreed during the meeting, the project remains on track for launch on July 15. To support the launch activities, the marketing team will provide the required campaign assets by June 25. In addition, our next review meeting has been scheduled for June 30 to assess progress, address any outstanding concerns, and ensure that all teams remain aligned with project objectives.\n\nPlease review the above points and let me know if there are any corrections or additional items that should be considered before our next meeting.\n\nThank you for your continued collaboration and commitment to the project's success.\n\nBest regards,\nProject Coordinator"
+  },
+  {
+    "id": 2,
+    "intent": "Request a detailed proposal from a vendor",
+    "tone": "Professional",
+    "facts": [
+      "Interested in AI automation services",
+      "Budget range is $15,000–20,000",
+      "Need estimated implementation timeline",
+      "Proposal requested by June 28"
+    ],
+    "reference_subject": "Request for Proposal – AI Automation Services",
+    "reference_email": "Dear Vendor Team,\n\nI hope this message finds you well.\n\nWe are currently exploring AI automation solutions for an upcoming initiative and are interested in learning more about your services and capabilities.\n\nTo support our evaluation process, we would appreciate receiving a detailed proposal outlining your recommended solution. Our anticipated budget for this project is between $15,000 and $20,000, and we would like the proposal to include an estimated implementation timeline along with any relevant technical and commercial details.\n\nIf possible, please submit your proposal by June 28 so that it can be included in our review process.\n\nThank you for your time and consideration. We look forward to reviewing your response and exploring potential opportunities for collaboration.\n\nBest regards,\nBusiness Development Manager"
+  },
+  {
+    "id": 3,
+    "intent": "Respond to a dissatisfied customer",
+    "tone": "Empathetic",
+    "facts": [
+      "Order arrived 5 days late",
+      "Customer reported damaged packaging",
+      "Internal investigation identified a logistics issue",
+      "Replacement product will be shipped within 48 hours",
+      "A 15% discount voucher will be provided",
+      "Customer support hotline is available for further assistance"
+    ],
+    "reference_subject": "Apology and Resolution Regarding Your Recent Order",
+    "reference_email": "Dear Customer,\n\nThank you for bringing this issue to our attention. I sincerely apologize for the inconvenience and frustration caused by your recent experience.\n\nAfter reviewing the matter, we confirmed that your order arrived five days later than expected and that the package was received in a damaged condition. Our internal investigation identified a logistics issue that contributed to these problems.\n\nTo resolve the situation, we have arranged for a replacement product to be shipped within the next 48 hours. Additionally, we will provide you with a 15% discount voucher as a gesture of goodwill and appreciation for your patience.\n\nShould you have any questions or require additional assistance, our customer support hotline remains available to help.\n\nWe truly value your business and appreciate the opportunity to make this right.\n\nKind regards,\nCustomer Support Team"
+  },
+  {
+    "id": 4,
+    "intent": "Invite candidate for interview",
+    "tone": "Formal",
+    "facts": [
+      "Position is AI Engineer",
+      "Interview date is July 2",
+      "Interview will be conducted via Zoom"
+    ],
+    "reference_subject": "Interview Invitation – AI Engineer Position",
+    "reference_email": "Dear Candidate,\n\nI hope you are doing well.\n\nThank you for your interest in the AI Engineer position and for taking the time to submit your application.\n\nWe are pleased to invite you to an interview scheduled for July 2. The interview will be conducted via Zoom and will provide an opportunity for us to discuss your background, technical experience, and interest in the role.\n\nAdditional details, including the meeting link and schedule, will be shared prior to the interview date.\n\nWe appreciate your interest in joining our team and look forward to speaking with you soon.\n\nBest regards,\nRecruitment Team"
+  },
+  {
+    "id": 5,
+    "intent": "Remind client about overdue invoice",
+    "tone": "Urgent",
+    "facts": [
+      "Invoice number is INV-2025-089",
+      "Due date was June 5",
+      "Outstanding balance is $4,250",
+      "Payment has not yet been received",
+      "Payment requested within 3 business days",
+      "Late fees may apply after the grace period"
+    ],
+    "reference_subject": "Urgent: Outstanding Invoice INV-2025-089",
+    "reference_email": "Dear Client,\n\nI hope you are doing well.\n\nThis email serves as an urgent reminder regarding invoice INV-2025-089. Our records indicate that the invoice, which was due on June 5, remains unpaid and has an outstanding balance of $4,250.\n\nAs we have not yet received payment, we kindly request that the outstanding amount be settled within the next three business days. Please note that late fees may be applied once the applicable grace period has expired.\n\nIf payment has already been processed, please disregard this message and accept our thanks. Otherwise, we would appreciate your prompt attention to this matter.\n\nThank you for your cooperation and understanding.\n\nSincerely,\nAccounts Receivable Team"
+  },
+  {
+    "id": 6,
+    "intent": "Notify stakeholder about project delay",
+    "tone": "Professional",
+    "facts": [
+      "Integration testing identified critical bugs",
+      "Release delayed by two weeks",
+      "New target release date is August 15",
+      "Development team is actively resolving issues",
+      "Weekly status updates will be provided"
+    ],
+    "reference_subject": "Project Timeline Update",
+    "reference_email": "Dear Stakeholder,\n\nI hope you are doing well.\n\nI would like to provide an update regarding the current project timeline and share an important development identified during our recent testing phase.\n\nDuring integration testing, our team discovered several critical bugs that require additional investigation and resolution before the product can be released. To ensure the quality, reliability, and stability of the final deliverable, we have decided to postpone the release by approximately two weeks.\n\nAs a result, the new target release date is August 15. Please be assured that the development team is actively working to resolve the identified issues and minimize any further delays.\n\nTo maintain transparency throughout this process, we will provide weekly status updates outlining our progress and any significant developments.\n\nWe appreciate your understanding and continued support as we work to deliver a high-quality solution.\n\nBest regards,\nProject Manager"
+  },
+  {
+    "id": 7,
+    "intent": "Announce a new SaaS product launch",
+    "tone": "Friendly",
+    "facts": [
+      "Product name is InsightFlow AI",
+      "Launch date is September 1",
+      "Includes AI-powered analytics dashboard",
+      "Includes automated reporting features",
+      "Early adopters receive 20% discount",
+      "Free trial available for 14 days"
+    ],
+    "reference_subject": "Introducing InsightFlow AI",
+    "reference_email": "Hello,\n\nWe are excited to share some great news with you.\n\nOn September 1, we will officially launch InsightFlow AI, a powerful new platform designed to help organizations gain deeper insights and make better decisions through data.\n\nInsightFlow AI combines an AI-powered analytics dashboard with automated reporting features, making it easier to monitor performance, identify trends, and generate actionable insights. To celebrate the launch, early adopters will receive a 20% discount on their subscription.\n\nIn addition, all new users will have access to a free 14-day trial, providing an opportunity to explore the platform and experience its capabilities firsthand.\n\nWe can't wait for you to try InsightFlow AI and see how it can support your goals.\n\nWarm regards,\nProduct Team"
+  },
+  {
+    "id": 8,
+    "intent": "Initiate research collaboration",
+    "tone": "Professional",
+    "facts": [
+      "Interested in collaborating on computer vision research",
+      "Seeking opportunities for joint publications",
+      "Available for an introductory meeting during the first week of July",
+      "Open to sharing datasets and research tools",
+      "Previous work includes AI-based visual inspection systems",
+      "Interested in applying for joint research grants"
+    ],
+    "reference_subject": "Proposal for Research Collaboration",
+    "reference_email": "Dear Research Team,\n\nI hope this message finds you well.\n\nI am reaching out to explore the possibility of establishing a research collaboration in the area of computer vision. We believe there may be significant opportunities to combine our expertise and pursue impactful research initiatives together.\n\nOur team is particularly interested in opportunities for joint publications and collaborative projects. We have previous experience developing AI-based visual inspection systems and would be happy to share relevant datasets, tools, and research resources that could support future work.\n\nIn addition to research activities, we are also interested in exploring opportunities for joint research grant applications. If this aligns with your interests, I would be pleased to arrange an introductory meeting during the first week of July to discuss potential areas of collaboration.\n\nThank you for your time and consideration. I look forward to the possibility of working together.\n\nBest regards,\nResearch Coordinator"
+  },
+  {
+    "id": 9,
+    "intent": "Invite customers to company event",
+    "tone": "Casual",
+    "facts": [
+      "Event date is August 12",
+      "Location is Innovation Hub Dhaka",
+      "Registration closes July 30"
+    ],
+    "reference_subject": "You're Invited to Our Innovation Event",
+    "reference_email": "Hi Everyone,\n\nI hope you're doing well.\n\nWe're excited to invite you to our upcoming innovation event, which will take place on August 12 at Innovation Hub Dhaka.\n\nThe event will bring together professionals, innovators, and members of our community for an evening of networking, idea sharing, and meaningful conversations. Whether you're looking to make new connections or learn about exciting developments in the industry, we'd love to have you join us.\n\nPlease remember that registration closes on July 30, so be sure to reserve your spot before then.\n\nWe hope to see you there and look forward to a great event.\n\nCheers,\nEvents Team"
+  },
+  {
+    "id": 10,
+    "intent": "Discuss annual service contract renewal",
+    "tone": "Professional",
+    "facts": [
+      "Current contract expires August 31",
+      "Renewal period is 12 months",
+      "Pricing remains unchanged",
+      "Renewal confirmation requested by August 15"
+    ],
+    "reference_subject": "Service Agreement Renewal",
+    "reference_email": "Dear Client,\n\nI hope you are doing well.\n\nI am writing regarding the renewal of your current service agreement, which is scheduled to expire on August 31.\n\nWe would be pleased to continue supporting your organization through a 12-month renewal period under the same pricing structure as your existing agreement. We greatly value our partnership and look forward to continuing our collaboration.\n\nTo ensure uninterrupted service and allow sufficient time for processing, we kindly request confirmation of your renewal decision by August 15.\n\nShould you have any questions regarding the agreement or require additional information, please do not hesitate to contact us.\n\nThank you for your continued trust and partnership.\n\nBest regards,\nAccount Manager"
+  }
+]

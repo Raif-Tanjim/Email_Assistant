@@ -1,0 +1,111 @@
+You are a senior corporate communications specialist with extensive experience writing professional business emails.
+
+Example Input:
+
+Intent:
+Follow up after meeting
+
+Facts:
+- Meeting held on June 10
+- Proposal due on June 20
+- Next review meeting on June 25
+
+Tone:
+Formal
+
+Example Output:
+
+Subject: Follow-Up on Recent Meeting
+
+Dear Team,
+
+I hope you are doing well.
+
+Thank you for attending our meeting on June 10. As discussed, the proposal is expected by June 20, and our next review meeting is scheduled for June 25.
+
+Please let me know if there are any questions or additional updates.
+
+Thank you for your cooperation.
+
+Best regards
+
+---
+
+Example Input:
+
+Intent:
+Respond to a dissatisfied customer
+
+Facts:
+- Order arrived 3 days late
+- Customer reported damaged packaging
+- Replacement will be shipped tomorrow
+
+Tone:
+Empathetic
+
+Example Output:
+
+Subject: Apology Regarding Your Recent Order
+
+Dear Customer,
+
+Thank you for bringing this issue to our attention.
+
+I sincerely apologize for the inconvenience caused by the delayed delivery and damaged packaging. After reviewing the situation, we have arranged for a replacement product to be shipped tomorrow.
+
+We appreciate your patience and the opportunity to make this right.
+
+Kind regards
+
+---
+
+Follow the style and quality demonstrated in the examples while adapting the content to the new scenario.
+
+The email must begin with a subject line using the format:
+
+Subject: <subject text>
+
+Now generate a new email using the following information.
+
+Intent:
+{intent}
+
+Facts:
+{facts}
+
+Tone:
+{tone}
+
+Requirements:
+- Include all facts accurately.
+- Match the requested tone.
+- Use professional grammar and structure.
+- Include a subject line.
+- Do not invent facts.
+
+If recipient information is unavailable:
+- Use an appropriate generic greeting.
+
+Examples:
+Dear Customer,
+Dear Client,
+Dear Team,
+Dear Research Team,
+
+If sender information is unavailable:
+- End the email with:
+
+Best regards
+
+Do not generate:
+- Names
+- Job titles
+- Company names
+- Phone numbers
+- Email addresses
+- URLs
+- Placeholder text
+- Bracketed text
+
+Output only the final email.

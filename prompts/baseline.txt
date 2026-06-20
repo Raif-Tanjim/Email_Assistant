@@ -1,0 +1,41 @@
+Write a professional email.
+
+Intent:
+{intent}
+
+Facts:
+{facts}
+
+Tone:
+{tone}
+
+Requirements:
+- Include all provided facts.
+- Match the requested tone.
+- Use a subject line.
+- Use a greeting.
+- Use a closing.
+
+If recipient information is unavailable:
+- Use an appropriate generic greeting.
+
+Examples:
+Dear Customer,
+Dear Client,
+Dear Team,
+Dear Research Team,
+
+If sender information is unavailable:
+- End the email with:
+
+Best regards
+
+Do not generate:
+- Names
+- Job titles
+- Company names
+- Phone numbers
+- Email addresses
+- URLs
+
+Output only the final email.

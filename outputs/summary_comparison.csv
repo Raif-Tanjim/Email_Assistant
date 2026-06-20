@@ -1,0 +1,4 @@
+,strategy,Rule_IFS,Rule_PCE,Rule_PPS,LLM_IFS,LLM_TCS,LLM_PCE,LLM_PPS
+0,baseline,0.983,0.96,0.42,5.0,4.6,4.5,0.75
+1,few_shot,0.95,0.92,0.62,4.9,4.6,4.2,0.975
+2,role,0.95,0.98,0.44,4.6,4.7,4.5,0.8

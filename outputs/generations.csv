@@ -1,0 +1,377 @@
+scenario_id,strategy,intent,tone,generated_email
+1,baseline,Follow up after a project planning meeting,Formal,"Subject: Follow-Up on Project Planning Meeting  
+
+Dear Team,  
+
+Following our project planning meeting held on June 10, I wanted to provide a brief update on the next steps. The project launch is scheduled for July 15, and the marketing team has committed to delivering the campaign assets by June 25. We have a review meeting planned for June 30 to assess progress and address any outstanding tasks. Please ensure all deliverables are submitted by the respective deadlines to keep the timeline on track.  
+
+Should you have any questions or need further clarification, feel free to reach out. Thank you for your continued collaboration.  
+
+Best regards"
+2,baseline,Request a detailed proposal from a vendor,Professional,"Subject: Request for Detailed Proposal on AI Automation Services  
+
+Dear Team,  
+
+I hope this message finds you well. We are currently exploring AI automation services and would appreciate receiving a detailed proposal outlining your offerings, pricing, and implementation timeline.  
+
+Our budget range for this project is $15,000–$20,000, and we require an estimated timeline for implementation. Kindly ensure your proposal includes specifics on deliverables, milestones, and any additional costs that may apply.  
+
+We kindly request the proposal by June 28 to allow sufficient time for review and decision-making. Please feel free to reach out if you need further details to prepare your submission.  
+
+Thank you for your attention to this matter.  
+
+Best regards  
+[Your Name]  
+[Your Position]  
+[Your Contact Information]"
+3,baseline,Respond to a dissatisfied customer,Empathetic,"Subject: Apology and Resolution for Your Recent Order Issue  
+
+Dear Customer,  
+
+We sincerely apologize for the inconvenience caused by the delayed delivery of your order and the damaged packaging. We understand how frustrating this must have been, and we take full responsibility for the issues you encountered.  
+
+Upon review, our internal investigation identified a logistics issue that led to the five-day delay. To resolve this, a replacement product will be shipped to you within the next 48 hours. Additionally, as a gesture of goodwill, we’re pleased to offer you a 15% discount voucher on your next purchase.  
+
+Should you have further questions or need assistance, our customer support team is available at your convenience via the dedicated hotline. We value your feedback and are committed to ensuring a better experience moving forward.  
+
+Thank you for your patience and understanding.  
+
+Best regards"
+4,baseline,Invite candidate for interview,Formal,"Subject: Interview Invitation for AI Engineer Position – July 2  
+
+Dear Team,  
+
+We are pleased to invite you for an interview for the AI Engineer position. The interview is scheduled for July 2 and will be conducted via Zoom.  
+
+Please let us know if you have any questions or require further information.  
+
+Best regards,"
+5,baseline,Remind client about overdue invoice,Urgent,"Subject: Urgent: Overdue Invoice Payment Required – INV-2025-089  
+
+Dear Client,  
+
+We hope this message finds you well. We would like to remind you that invoice number **INV-2025-089**, with a total amount of **$4,250**, was due on **June 5** and remains outstanding.  
+
+As of today, payment has not yet been received. To avoid additional charges, we kindly request that you settle the balance within **3 business days**. Please note that late fees may apply after the grace period expires.  
+
+We appreciate your prompt attention to this matter to ensure smooth processing. Should you have any questions or require clarification, please do not hesitate to reach out.  
+
+Thank you for your cooperation.  
+
+Best regards"
+6,baseline,Notify stakeholder about project delay,Professional,"Subject: Update on Project Timeline: Revised Release Date of August 15  
+
+Dear Stakeholder,  
+
+We would like to inform you that the project timeline has been adjusted due to the identification of critical bugs during integration testing. As a result, the release has been delayed by two weeks, and the new target release date is now **August 15**.  
+
+The development team is actively working to resolve these issues and is committed to ensuring a stable and reliable delivery. To keep you informed, we will provide weekly status updates outlining progress and any further adjustments to the timeline.  
+
+We appreciate your understanding and patience as we work to meet this revised deadline. Please feel free to reach out if you have any questions or require additional details.  
+
+Best regards  
+[Your Name]  
+[Your Position]  
+[Your Contact Information]"
+7,baseline,Announce a new SaaS product launch,Friendly,"Subject: Introducing InsightFlow AI – Launching September 1!  
+
+Dear Team,  
+
+We’re excited to share a major update to our offerings! On **September 1**, we’ll be launching **InsightFlow AI**, a powerful SaaS solution designed to simplify data analysis and reporting.  
+
+This product includes an **AI-powered analytics dashboard** for real-time insights and **automated reporting features** to save you time and boost efficiency. Whether you’re managing operations, tracking performance, or planning strategically, InsightFlow AI is built to meet your needs.  
+
+To celebrate the launch, **early adopters will receive 20% off** their first month of service. Additionally, we’re offering a **14-day free trial** to help you experience the full potential of the platform.  
+
+Join us in making data-driven decisions easier than ever. Sign up today to take advantage of these exclusive offers!  
+
+Best regards  
+[Your Name]  
+[Your Position]  
+[Company Name]"
+8,baseline,Initiate research collaboration,Professional,"Subject: Collaboration Opportunity in Computer Vision Research  
+
+Dear Research Team,  
+
+I hope this message finds you well. I am reaching out to explore a potential collaboration on computer vision research, with a focus on advancing AI-based visual inspection systems and related applications. I am particularly interested in opportunities for joint publications and collaborative grant applications to further innovate in this field.  
+
+I am available for an introductory meeting during the first week of July and would be happy to accommodate your schedule. Additionally, I am open to sharing datasets, research tools, and expertise to support mutual goals. My previous work includes developing AI-driven visual inspection systems, which I believe could complement ongoing or future research initiatives.  
+
+Please let me know a convenient time to connect, or feel free to share any initial ideas or priorities for the collaboration. I look forward to the possibility of working together.  
+
+Best regards  
+[Your Name]"
+9,baseline,Invite customers to company event,Casual,"Subject: Join Us at the Innovation Hub Dhaka on August 12!  
+
+Dear Customer,  
+
+We’re excited to invite you to our upcoming event on **August 12** at the **Innovation Hub Dhaka**! This is a great opportunity to connect, explore new ideas, and enjoy some inspiring sessions.  
+
+Don’t forget—**registration closes on July 30**, so make sure to secure your spot before then!  
+
+We’d love to see you there. Let us know if you have any questions.  
+
+Best regards"
+10,baseline,Discuss annual service contract renewal,Professional,"Subject: Annual Service Contract Renewal Notice  
+
+Dear Client,  
+
+We would like to remind you that your annual service contract, which currently expires on August 31, is now entering its renewal period. The renewal will cover a 12-month term, and we are pleased to confirm that pricing terms will remain unchanged.  
+
+To ensure a seamless transition, we kindly request your confirmation of renewal by August 15. Please let us know if you have any questions or require further details.  
+
+Should you need assistance, do not hesitate to reach out.  
+
+Best regards"
+1,role,Follow up after a project planning meeting,Formal,"Subject: Follow-Up on Project Planning Meeting – June 10  
+
+Dear Team,  
+
+Following our project planning meeting on June 10, I wanted to provide a brief summary of the key action items and next steps to ensure alignment across all teams.  
+
+The project launch is scheduled for July 15, and the marketing team has committed to delivering the campaign assets by June 25. Please note that this deadline is critical to maintaining the timeline for the launch.  
+
+A review meeting is planned for June 30 to assess progress and address any potential challenges. All stakeholders are encouraged to prepare updates and insights for this session.  
+
+Should you have any questions or require further clarification, please do not hesitate to reach out.  
+
+Best regards"
+2,role,Request a detailed proposal from a vendor,Professional,"Subject: Request for Detailed Proposal on AI Automation Services  
+
+Dear Team,  
+
+I hope this message finds you well. We are currently evaluating options for AI automation services and would appreciate receiving a detailed proposal from your team.  
+
+Our budget range for this initiative is $15,000–$20,000, and we are seeking an estimated implementation timeline to align with our project schedule. Kindly include specifics on deliverables, resource allocation, and key milestones in your proposal.  
+
+To ensure timely review, we kindly request the proposal by June 28. Please let us know if additional details are required to proceed.  
+
+Thank you for your attention to this matter. We look forward to your response.  
+
+Best regards"
+3,role,Respond to a dissatisfied customer,Empathetic,"Subject: Apology and Resolution for Your Recent Order Issue  
+
+Dear Customer,  
+
+We sincerely apologize for the inconvenience caused by the delayed delivery of your order and the damaged packaging. We understand how frustrating this must have been, and we deeply regret the impact this has had on your experience.  
+
+Our internal investigation has identified a logistics issue that contributed to the delay, and we are taking full responsibility for ensuring such problems do not recur. To resolve this matter promptly, a replacement product will be shipped to you within the next 48 hours. Additionally, as a gesture of goodwill, we are offering you a 15% discount voucher on your next purchase, which you can apply at checkout.  
+
+Should you have any further questions or require additional assistance, our customer support team is available at your convenience via the dedicated hotline. We value your feedback and are committed to improving our service to better meet your expectations.  
+
+Thank you for your patience and understanding.  
+
+Best regards"
+4,role,Invite candidate for interview,Formal,"Subject: Interview Invitation for AI Engineer Position – July 2  
+
+Dear [Candidate],  
+
+We are pleased to invite you for an interview for the AI Engineer position. The interview is scheduled for July 2 and will be conducted via Zoom. Please confirm your availability at your earliest convenience. Should you require any additional information, do not hesitate to contact us.  
+
+Best regards"
+5,role,Remind client about overdue invoice,Urgent,"Subject: Urgent: Overdue Invoice INV-2025-089 – Payment Required by June 10  
+
+Dear [Client Name],  
+
+We hope this message finds you well. We would like to remind you that invoice INV-2025-089, with a total outstanding balance of $4,250, remains unpaid as of today. The original due date for payment was June 5, and we kindly request settlement within the next three business days to avoid additional charges.  
+
+Please note that late fees may apply after the grace period expires on June 10. We appreciate your prompt attention to this matter and are happy to assist with any questions or payment arrangements.  
+
+Kindly confirm receipt of this notice and provide updates on payment processing at your earliest convenience.  
+
+Best regards"
+6,role,Notify stakeholder about project delay,Professional,"Subject: Project Release Delay Notification  
+
+Dear Stakeholder,  
+
+We would like to inform you that the release timeline for the project has been adjusted due to the identification of critical bugs during integration testing. As a result, the original release date has been delayed by two weeks, with the new target date now set for August 15.  
+
+The development team is actively working to resolve these issues and is committed to ensuring a stable and reliable release. To keep you updated, weekly status reports will be provided to outline progress and any further adjustments to the timeline.  
+
+We appreciate your understanding and patience as we prioritize resolving these challenges to deliver a high-quality outcome. Please feel free to reach out if you have any questions or require additional details.  
+
+Best regards"
+7,role,Announce a new SaaS product launch,Friendly,"Subject: Introducing InsightFlow AI: Launching September 1 – Elevate Your Data Strategy!  
+
+Dear Team,  
+
+We’re excited to announce the launch of **InsightFlow AI**, a groundbreaking SaaS solution designed to transform how you leverage data. Priced for accessibility and packed with powerful tools, this product is set to redefine efficiency and insight in your workflows.  
+
+**Key Features:**  
+- **AI-Powered Analytics Dashboard:** Unlock actionable insights with intelligent data visualization and predictive analytics.  
+- **Automated Reporting Features:** Save time and reduce manual effort with fully customizable, real-time reporting.  
+
+**Launch Date:** September 1  
+**Early Adopter Offer:** Enjoy **20% off** your first month with code **INSIGHT20**.  
+**Free Trial:** Experience the platform risk-free with a **14-day trial**—no credit card required.  
+
+Visit our website to learn more, schedule a demo, or claim your trial today. We’re confident InsightFlow AI will become an essential tool in your toolkit.  
+
+Best regards  
+[Your Name]  
+[Your Position]  
+[Company Name]"
+8,role,Initiate research collaboration,Professional,"Subject: Proposal for Collaboration on Computer Vision Research  
+
+Dear Research Team,  
+
+I hope this message finds you well. I am reaching out to explore opportunities for collaboration on computer vision research, with a focus on advancing AI-based visual inspection systems and related applications. I am particularly interested in partnering on joint publications, sharing datasets and research tools, and applying for collaborative grant opportunities.  
+
+I am available for an introductory meeting during the first week of July and would welcome the chance to discuss potential synergies between our teams. Please let me know a convenient time, or suggest alternative arrangements if needed.  
+
+Thank you for considering this proposal. I look forward to the possibility of working together to drive innovation in this field.  
+
+Best regards"
+9,role,Invite customers to company event,Casual,"Subject: Join Us at the Innovation Hub Dhaka on August 12!  
+
+Dear Customer,  
+
+We hope this message finds you well! We’re excited to invite you to an upcoming event happening on **August 12** at the **Innovation Hub Dhaka**. This is a fantastic opportunity to connect, explore new ideas, and engage with like-minded professionals.  
+
+Registration for the event closes on **July 30**, so we encourage you to secure your spot soon. Whether you’re attending in person or virtually, we look forward to welcoming you and sharing insights that align with your goals.  
+
+Please RSVP by July 30 to ensure your participation. Let us know if you have any questions—we’re happy to help!  
+
+Best regards  
+[Your Name]  
+[Your Position]  
+[Company Name]"
+10,role,Discuss annual service contract renewal,Professional,"Subject: Annual Service Contract Renewal Notice  
+
+Dear Client,  
+
+We would like to remind you that your annual service contract, currently in effect, will expire on August 31. As agreed, the renewal period will be 12 months, with pricing remaining unchanged for the upcoming term.  
+
+To ensure seamless continuation of services, we kindly request confirmation of your renewal intent by August 15. Please let us know if you have any questions or require further details to proceed.  
+
+We value our partnership and appreciate your attention to this matter. Should you need assistance, do not hesitate to reach out.  
+
+Best regards"
+1,few_shot,Follow up after a project planning meeting,Formal,"Subject: Follow-Up on Project Planning Meeting  
+
+Dear Team,  
+
+I hope you are well.  
+
+Thank you for attending the project planning meeting held on June 10. As discussed, the project is scheduled for launch on July 15. The marketing team has committed to providing the campaign assets by June 25, and the next review meeting is planned for June 30.  
+
+Please reach out if you have any questions or require further clarification.  
+
+Best regards"
+2,few_shot,Request a detailed proposal from a vendor,Professional,"Subject: Request for Detailed Proposal on AI Automation Services  
+
+Dear Client,  
+
+I hope this message finds you well.  
+
+We are currently evaluating options for AI automation services and would appreciate receiving a detailed proposal from your team. Specifically, we are interested in solutions that align with our budget range of $15,000–$20,000 and include an estimated implementation timeline.  
+
+Kindly ensure your proposal highlights the scope of services, cost breakdown, and projected timeline for deployment. We request this information by June 28 to facilitate our decision-making process.  
+
+Should you have any questions or require further clarification, please do not hesitate to reach out.  
+
+Thank you for your attention to this matter.  
+
+Best regards"
+3,few_shot,Respond to a dissatisfied customer,Empathetic,"Subject: Apology for Your Recent Order Experience  
+
+Dear Customer,  
+
+Thank you for bringing your concerns to our attention. We sincerely apologize for the significant delay in your order arrival and the inconvenience caused by the damaged packaging.  
+
+After a thorough internal investigation, we identified a logistics issue that contributed to the delay. To resolve this, a replacement product will be shipped within the next 48 hours. As a gesture of goodwill, we also offer you a 15% discount voucher on your next purchase.  
+
+Please do not hesitate to contact our customer support hotline for further assistance or clarification. Your satisfaction is our priority, and we appreciate your patience as we work to make this right.  
+
+Thank you for your understanding.  
+
+Best regards"
+4,few_shot,Invite candidate for interview,Formal,"Subject: Invitation for AI Engineer Interview  
+
+Dear [Candidate],  
+
+I hope this message finds you well.  
+
+We are pleased to invite you for an interview for the AI Engineer position. The interview is scheduled for July 2 and will be conducted via Zoom.  
+
+Please confirm your availability and let us know if you require any further information.  
+
+Thank you for your time and consideration.  
+
+Best regards"
+5,few_shot,Remind client about overdue invoice,Urgent,"Subject: Urgent Reminder: Overdue Invoice INV-2025-089  
+
+Dear Client,  
+
+I hope this message finds you well.  
+
+We would like to remind you that invoice INV-2025-089, with a due date of June 5, remains outstanding. The total balance of $4,250 is now past due, and payment is requested within the next 3 business days to avoid additional charges.  
+
+Please note that late fees may apply after the grace period expires. We kindly ask you to prioritize this payment to avoid any further action.  
+
+Should you have any questions or need assistance with processing the payment, do not hesitate to reach out.  
+
+Thank you for your prompt attention to this matter.  
+
+Best regards"
+6,few_shot,Notify stakeholder about project delay,Professional,"Subject: Project Release Delay Notification  
+
+Dear Stakeholder,  
+
+I hope this message finds you well.  
+
+We would like to inform you that the project release has been delayed by two weeks due to critical bugs identified during integration testing. As a result, the new target release date has been adjusted to August 15.  
+
+The development team is actively working to resolve these issues and ensure a stable and timely delivery. To keep you updated, weekly status reports will be provided to outline progress and any further adjustments.  
+
+We appreciate your understanding and continued support as we work to meet the revised timeline.  
+
+Best regards"
+7,few_shot,Announce a new SaaS product launch,Friendly,"Subject: Exciting News: Launch of InsightFlow AI on September 1!  
+
+Dear Customer,  
+
+We’re thrilled to announce the launch of **InsightFlow AI** on **September 1**! This innovative SaaS product is designed to simplify your data analysis with its AI-powered analytics dashboard and automated reporting features. Whether you’re looking to streamline workflows or make smarter, data-driven decisions, InsightFlow AI is here to help.  
+
+To celebrate, early adopters will receive a **20% discount** on their first purchase, and a **14-day free trial** is now available for all interested parties.  
+
+We’d love to hear your thoughts and answer any questions—feel free to reach out!  
+
+Thank you for being part of our journey.  
+
+Best regards"
+8,few_shot,Initiate research collaboration,Professional,"Subject: Initiating Collaboration on Computer Vision Research  
+
+Dear Research Team,  
+
+I hope this message finds you well.  
+
+I am reaching out to explore opportunities for collaboration on computer vision research, with a particular interest in joint publications and shared grant applications. I am available for an introductory meeting during the first week of July and would be pleased to discuss potential areas of alignment.  
+
+My previous work includes developing AI-based visual inspection systems, and I am open to sharing relevant datasets and research tools to support collaborative efforts. I am keen to leverage our combined expertise to advance innovative solutions in this field.  
+
+Please let me know a convenient time for a meeting or if you have any initial thoughts on potential research directions. I look forward to the possibility of working together.  
+
+Best regards"
+9,few_shot,Invite customers to company event,Casual,"Subject: Join Us at Our Upcoming Event  
+
+Dear Customer,  
+
+We’re excited to invite you to our upcoming event on **August 12** at the **Innovation Hub Dhaka**!  
+
+Please note that registration closes on **July 30**, so we encourage you to secure your spot before then.  
+
+We look forward to seeing you there!  
+
+Best regards"
+10,few_shot,Discuss annual service contract renewal,Professional,"Subject: Annual Service Contract Renewal Reminder  
+
+Dear Client,  
+
+We would like to remind you that your current service contract expires on August 31. As discussed, the renewal period will cover 12 months, and pricing terms remain unchanged.  
+
+To ensure a seamless transition, we kindly request confirmation of your renewal intent by August 15. Please let us know if you have any questions or require further details.  
+
+Thank you for your continued partnership.  
+
+Best regards"

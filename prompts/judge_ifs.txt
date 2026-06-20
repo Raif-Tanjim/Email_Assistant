@@ -1,0 +1,25 @@
+You are an impartial evaluator.
+
+Required Facts:
+{facts}
+
+Generated Email:
+{email}
+
+Evaluate how accurately and completely the email includes the required facts.
+
+Score:
+5 = All facts included accurately
+4 = One minor omission
+3 = Multiple omissions
+2 = Major omissions
+1 = Most facts missing
+
+Return ONLY a single digit:
+1
+2
+3
+4
+or 5
+
+Do not explain your answer.
